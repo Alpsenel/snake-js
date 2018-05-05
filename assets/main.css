@@ -1,0 +1,16 @@
+body {
+    background: #cecece;
+}
+
+#scoreBoard,
+#options {
+    position: absolute;
+    width: 100vw;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+
+#scoreBoard {
+    top: 35px;
+}
